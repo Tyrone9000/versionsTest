@@ -11,6 +11,7 @@ namespace versionsTest
         static void Main(string[] args)
         {
             int test;
+            int zweiterTest;
         }
     }
 }
